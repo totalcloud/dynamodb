@@ -11,7 +11,7 @@
     "test": "make test",
     "dynamodb-local": "./test/bin/dynamodb-local"
   },
-  "repository": "git://github.com/baseprime/dynamodb.git",
+  "repository": "git://github.com/@totalcloud/dynamodb.git",
   "keywords": [
     "datamapper",
     "DynamoDB",
