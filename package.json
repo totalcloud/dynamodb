@@ -1,5 +1,5 @@
 {
-  "name": "tc-dynamodb",
+  "name": "@totalcloud/dynamodb",
   "version": "1.2.1",
   "contributors": [
     "Ryan Fitzgerald <ryan@codebrewstudios.com>",
